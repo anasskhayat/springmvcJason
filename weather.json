@@ -1,0 +1,122 @@
+{
+"query": {
+"count": 1,
+"created": "2016-02-12T11:58:15Z",
+"lang": "es",
+"diagnostics": {
+"publiclyCallable": "true",
+"url": {
+"execution-start-time": "0",
+"execution-stop-time": "17",
+"execution-time": "17",
+"content": "http://weather.yahooapis.com/forecastrss?w=766273"
+},
+"user-time": "18",
+"service-time": "17",
+"build-version": "0.2.395"
+},
+"results": {
+"channel": {
+"title": "Yahoo! Weather - Madrid, ES",
+"link": "http://us.rd.yahoo.com/dailynews/rss/weather/Madrid__ES/*http://weather.yahoo.com/forecast/SPXX0050_f.html",
+"description": "Yahoo! Weather for Madrid, ES",
+"language": "en-us",
+"lastBuildDate": "Fri, 12 Feb 2016 12:29 pm CET",
+"ttl": "60",
+"location": {
+"city": "Madrid",
+"country": "Spain",
+"region": ""
+},
+"units": {
+"distance": "mi",
+"pressure": "in",
+"speed": "mph",
+"temperature": "F"
+},
+"wind": {
+"chill": "55",
+"direction": "230",
+"speed": "24"
+},
+"atmosphere": {
+"humidity": "88",
+"pressure": "29.85",
+"rising": "0",
+"visibility": "6.21"
+},
+"astronomy": {
+"sunrise": "8:11 am",
+"sunset": "6:45 pm"
+},
+"image": {
+"title": "Yahoo! Weather",
+"width": "142",
+"height": "18",
+"link": "http://weather.yahoo.com",
+"url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+},
+"item": {
+"title": "Conditions for Madrid, ES at 12:29 pm CET",
+"lat": "40.42",
+"long": "-3.67",
+"link": "http://us.rd.yahoo.com/dailynews/rss/weather/Madrid__ES/*http://weather.yahoo.com/forecast/SPXX0050_f.html",
+"pubDate": "Fri, 12 Feb 2016 12:29 pm CET",
+"condition": {
+"code": "28",
+"date": "Fri, 12 Feb 2016 12:29 pm CET",
+"temp": "55",
+"text": "Mostly Cloudy"
+},
+"description": "\n<img src=\"http://l.yimg.com/a/i/us/we/52/28.gif\"/><br />\n<b>Current Conditions:</b><br />\nMostly Cloudy, 55 F<BR />\n<BR /><b>Forecast:</b><BR />\nFri - PM Light Rain/Wind. High: 59 Low: 52<br />\nSat - Showers/Wind. High: 58 Low: 49<br />\nSun - Showers/Wind. High: 50 Low: 36<br />\nMon - Partly Cloudy/Wind. High: 51 Low: 36<br />\nTue - Mostly Sunny. High: 47 Low: 29<br />\n<br />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Madrid__ES/*http://weather.yahoo.com/forecast/SPXX0050_f.html\">Full Forecast at Yahoo! Weather</a><BR/><BR/>\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)<br/>\n",
+"forecast": [
+{
+"code": "11",
+"date": "12 Feb 2016",
+"day": "Fri",
+"high": "59",
+"low": "52",
+"text": "PM Light Rain/Wind"
+},
+{
+"code": "11",
+"date": "13 Feb 2016",
+"day": "Sat",
+"high": "58",
+"low": "49",
+"text": "Showers/Wind"
+},
+{
+"code": "11",
+"date": "14 Feb 2016",
+"day": "Sun",
+"high": "50",
+"low": "36",
+"text": "Showers/Wind"
+},
+{
+"code": "24",
+"date": "15 Feb 2016",
+"day": "Mon",
+"high": "51",
+"low": "36",
+"text": "Partly Cloudy/Wind"
+},
+{
+"code": "34",
+"date": "16 Feb 2016",
+"day": "Tue",
+"high": "47",
+"low": "29",
+"text": "Mostly Sunny"
+}
+],
+"guid": {
+"isPermaLink": "false",
+"content": "SPXX0050_2016_02_16_7_00_CET"
+}
+}
+}
+}
+}
+}
